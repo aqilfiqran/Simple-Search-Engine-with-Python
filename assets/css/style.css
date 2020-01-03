@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: linear-gradient(to bottom, #545a66, #62646e, #706e77, #7c797f, #888488, #888488, #888488, #888488, #7c797f, #706e77, #62646e, #545a66);
+    min-height: 100vh;
+}
+
+h1 {
+    margin: 0 0 10px;
+    padding: 0;
+    color: #fff;
+    font-size: 24px;
+}
+
+.box {
+    position: relative;
+    z-index: 10;
+    top: 20px;
+    left: 50%;
+    width: 650px;
+    transform: translate(-50%, -50%);
+    transition: .5s;
+}
+
+input {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: .5s;
+}
+
+input::placeholder,
+input {
+    color: rgb(124, 121, 121);
+    transition: .7s;
+}
+
+input:focus,
+input:focus::placeholder {
+    color: rgb(209, 208, 208);
+}
+
+.text {
+    background: #27292c;
+    width: 340px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0 25px;
+    border-radius: 25px 0 0 25px;
+}
+
+.container {
+    position: relative;
+    padding-bottom: 100px;
+}
+
+.number {
+    text-align: center;
+    position: relative;
+    left: -5px;
+    background: #27292c;
+    width: 100px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0 25px;
+}
+
+button {
+    position: relative;
+    left: -10px;
+    border-radius: 0 25px 25px 0;
+    height: 50px;
+    width: 200px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgb(53, 51, 51);
+    color: rgb(124, 121, 121);
+    font-size: 20px;
+    transition: .7s;
+}
+
+button:hover {
+    background: rgb(85, 82, 82);
+    color: #fff;
+}
+
+.card {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.content {
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 80%;
+    padding: 20px;
+    background-color: #c9c2e4;
+    box-shadow: 0 0 10px #3e3e3f;
+}
+
+.content h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.content p {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.content a {
+    margin-top: 20px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    text-align: center;
+    transition: .7s;
+    background: #27292c;
+    box-shadow: 0 0 10px black;
+    color: rgb(88, 81, 81);
+    font-weight: 700;
+}
+
+.content a:hover {
+    background: #494f58;
+    color: rgb(255, 255, 255);
+}

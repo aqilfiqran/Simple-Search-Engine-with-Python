@@ -1,0 +1,13 @@
+Awas, Lebih dari 100 Aplikasi Android Terdeteksi Berbahaya
+KOMPAS.com - Saat ini,  Android menjadi sistem operasi yang sangat populer pada smartphone dengan lebih dari 2,5 miliar pengguna.
+Oleh karena itu, seringkali Android menjadi sasaran utama bagi para pihak yang ingin menyebarkan  malware, program yang dirancang untuk merusak dengan cara menyusup ke sistem  komputer.
+Melansir Express, team dari Barracuda Security menemukan hampir 200  aplikasi yang berisi  adware atau kombinasi izin perangkat yang mencurigakan.
+Hingga saat ini, perusahaan keamanan siber White Ops telah mengidentifikasi 116 aplikasi, dengan lebih dari 4,6 juta unduhan di antaranya, yang mengklaim tindakan penipuan iklan.
+Sementara, mengutip Forbes, tim peneliti di White Ops Threat Intelligence mengidentifikasi lebih dari 100 aplikasi jahat yang semuanya memiliki penipuan serupa, yang disebut dengan kode "Soraka".
+Kode tersebut memungkinkan program tertentu untuk menampilkan iklan melalui perangkat Android.
+Jenis adware ini secara aktif tersembunyi dan membuatnya semakin sulit untuk dideteksi dan dihapus.
+"Para penipu semakin pintar, mereka tahu bahwa ada perlombaan senjata saat ini, mereka mencoba memperlambat identifikasi dengan taktik ini. Kami melihat semakin banyaknya 'perilaku' sejenis pada aplikasi," tutur John Laycock dari White Ops sebagaimana dikutip dari Forbes.
+Baca juga: Mengenal Truecaller, Aplikasi Pelacak Nomor Anonim
+Iklan penipuan
+Banyak aplikasi yang diungkap dalam penelitian ini tergolong sebagai pembaruan aplikasi lama, yaitu memanfaatkan alat dan teknik terbaru.
+White Ops melakukan penelitian terhadap salah satu aplikasi yang masih tersedia di Google Play Store saat itu, Best Fortune Explorer.  Aplikasi ini menawarkan jawaban-jawaban atas pertanyaan-pertanyaan kritis dalam hidup.
